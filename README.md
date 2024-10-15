@@ -9,7 +9,7 @@ eg. a person wearing a formal clothes will be categorized into a style -> formal
 # PAPERS
 
 Classification model #1:  
-
+https://ieeexplore.ieee.org/document/9047776
 
 Classification model #2:  
 https://www.mdpi.com/2076-3417/12/19/10062
@@ -24,3 +24,10 @@ Classification Model #1:
 Classification Model #2:
 - finished building the architecture of the model
 - waiting for the datasets
+
+12 oct 24:
+
+Classification Model #1:
+- found paper (https://ieeexplore.ieee.org/document/9047776)
+- made the code based on the information from the paper
+- 90% accuracy on Fashion MNIST dataset
